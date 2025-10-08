@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/osspersonalgymtracker/static/css/main.18ef1efc.css",
+    "main.js": "/osspersonalgymtracker/static/js/main.51f3e1fb.js",
+    "index.html": "/osspersonalgymtracker/index.html",
+    "main.18ef1efc.css.map": "/osspersonalgymtracker/static/css/main.18ef1efc.css.map",
+    "main.51f3e1fb.js.map": "/osspersonalgymtracker/static/js/main.51f3e1fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18ef1efc.css",
+    "static/js/main.51f3e1fb.js"
+  ]
+}
